@@ -1,0 +1,1 @@
+bludit-extended-version-info
